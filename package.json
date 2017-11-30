@@ -1,0 +1,11 @@
+{
+  "name": "browserify-babel-demo",
+  "main": "dist/module.js",
+  "devDependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^6.4.0",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
